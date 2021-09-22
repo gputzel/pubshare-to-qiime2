@@ -2,6 +2,10 @@
 
 Scripts for getting FASTQ files from Pubshare and running them through Qiime2
 
+## Software requirements
+
+You will need to install [Miniconda3](https://docs.conda.io/en/latest/miniconda.html).
+
 ## Instructions
 
 These commands are to be run from the command line (Terminal on a Mac).

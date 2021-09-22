@@ -26,7 +26,7 @@ To create this environment:
 
 ### Download FASTQ files from Pubshare
 
-    scripts/0-download-data.sh
+    scripts/1-download-data.sh
 
 ### Make a sample manifest
 

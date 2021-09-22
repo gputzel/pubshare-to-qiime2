@@ -26,7 +26,18 @@ To create this environment:
 
 ### Download FASTQ files from Pubshare
 
-    scripts/1-download-data.sh
+    scripts/1-download-data.sh Pubshare_Default_URLs.txt
+
+To get the file `Pubshare_Default_URLs.txt` do the following:
+
+- Log into Pubshare and go to the Data Browser tab
+- Create a new cart (or just delete/clear the Default cart and work with that instead)
+- Select the Raw (FASTQ) files that you want
+- Click on the green Links button
+- Select the "List of URLs" option
+- Click on the "Download as text file" button
+
+![](download-list.png)
 
 ### Make a sample manifest
 

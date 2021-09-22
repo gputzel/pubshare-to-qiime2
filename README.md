@@ -32,6 +32,8 @@ To create this environment:
 
     scripts/2-make-sample-manifest.py
 
+Note that this script ends in `.py` unlike most of the other ones.
+
 ### Import data into Qiime2
 
     scripts/3-import-data-into-qiime2.sh

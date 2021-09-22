@@ -74,4 +74,8 @@ Now you can edit the resulting `mapping-file.tsv` as you see fit. You can add co
 
     scripts/10-diversity-stats.sh
 
+### Make taxonomy barplots
+
+    scripts/11-taxonomy-barplots.sh
+
 

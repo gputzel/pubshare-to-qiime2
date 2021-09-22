@@ -64,3 +64,10 @@ This part could take a while, especially if you have a lot of samples.
 
 This can also take a while.
 
+### Make a mapping file (sample data file)
+
+    scripts/9-make-dummy-mapping-file.py
+
+Now you can edit the resulting `mapping-file.tsv` as you see fit. You can add columns, for example. Be sure that it is still tab-separated!
+
+

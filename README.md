@@ -48,4 +48,8 @@ This part could take a while, especially if you have a lot of samples.
 
     scripts/5-filter-out-short-ASVs.sh
 
+### Make a phylogenetic tree
+
+    scripts/6-make-phylogenetic-tree.sh
+
 

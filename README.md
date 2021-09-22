@@ -4,7 +4,11 @@ Scripts for getting FASTQ files from Pubshare and running them through Qiime2
 
 ## Instructions
 
+These commands are to be run from the command line (Terminal on a Mac).
+
 ### Clone this repository
+
+First, go to the directory where you want to set this up.
 
     git clone https://github.com/gputzel/pubshare-to-qiime2
     cd pubshare-to-qiime2

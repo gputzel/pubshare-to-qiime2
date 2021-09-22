@@ -38,4 +38,14 @@ Note that this script ends in `.py` unlike most of the other ones.
 
     scripts/3-import-data-into-qiime2.sh
 
+### Run dada2
+
+    scripts/4-run-dada2.sh
+
+This part could take a while, especially if you have a lot of samples.
+
+### Filter out ASVs that are too short
+
+    scripts/5-filter-out-short-ASVs.sh
+
 

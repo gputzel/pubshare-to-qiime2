@@ -32,4 +32,8 @@ To create this environment:
 
     scripts/2-make-sample-manifest.py
 
+### Import data into Qiime2
+
+    scripts/3-import-data-into-qiime2.sh
+
 

@@ -57,3 +57,10 @@ This part could take a while, especially if you have a lot of samples.
     scripts/7-download-classifier.sh
 
 **Please note that this classifier is specifically made for the primers that we use at the Microbiome Core**
+
+### Classify the representative sequences
+
+    scripts/8-classify-ASVs.sh
+
+This can also take a while.
+

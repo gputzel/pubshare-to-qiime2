@@ -70,4 +70,8 @@ This can also take a while.
 
 Now you can edit the resulting `mapping-file.tsv` as you see fit. You can add columns, for example. Be sure that it is still tab-separated!
 
+### Get diversity stats
+
+    scripts/10-diversity-stats.sh
+
 

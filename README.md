@@ -30,4 +30,6 @@ To create this environment:
 
 ### Make a sample manifest
 
-    scripts/
+    scripts/2-make-sample-manifest.py
+
+
